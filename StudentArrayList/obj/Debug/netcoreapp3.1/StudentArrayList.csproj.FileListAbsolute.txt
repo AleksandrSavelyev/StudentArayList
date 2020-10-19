@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\bin\Debug\netcoreapp3.1\StudentArrayList.exe
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\bin\Debug\netcoreapp3.1\StudentArrayList.deps.json
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\bin\Debug\netcoreapp3.1\StudentArrayList.runtimeconfig.json
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\bin\Debug\netcoreapp3.1\StudentArrayList.runtimeconfig.dev.json
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\bin\Debug\netcoreapp3.1\StudentArrayList.dll
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\bin\Debug\netcoreapp3.1\StudentArrayList.pdb
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\obj\Debug\netcoreapp3.1\StudentArrayList.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\obj\Debug\netcoreapp3.1\StudentArrayList.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\obj\Debug\netcoreapp3.1\StudentArrayList.AssemblyInfo.cs
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\obj\Debug\netcoreapp3.1\StudentArrayList.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\obj\Debug\netcoreapp3.1\StudentArrayList.dll
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\obj\Debug\netcoreapp3.1\StudentArrayList.pdb
+C:\Users\admin\source\repos\StudentArrayList\StudentArrayList\obj\Debug\netcoreapp3.1\StudentArrayList.genruntimeconfig.cache
